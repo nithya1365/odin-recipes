@@ -1,0 +1,31 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightcyan;
+}
+
+h1{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 50px;
+    color:rgb(10, 63, 99);
+}
+
+.pic{
+    
+    width:100%;
+    text-align: center;
+    height:200px;
+}
+
+.back, a{
+    border-radius: 20px;
+    background-color: rgb(17, 36, 99);
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+h2{
+    background-color: rgb(15, 63, 126);
+    color:white;
+}

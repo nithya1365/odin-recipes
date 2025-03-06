@@ -1,0 +1,38 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightpink;
+}
+
+.head{
+    text-align: center;
+    font-weight: 1000;
+    color:rgb(73, 12, 12);
+    
+    
+}
+
+.sub{
+    
+    color:white;
+    
+}
+
+a,h3{
+    text-decoration: none;
+    color:white;
+
+    
+}
+
+img{
+    height:auto;
+    width:150px;
+    border-radius: 25px;
+    border: 2px, white, solid;
+
+}
+
+.las{
+    height:150px;
+    width:150px;
+}
