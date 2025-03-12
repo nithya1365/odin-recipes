@@ -3,6 +3,13 @@
     background-color: lightcyan;
 }
 
+body{
+    width:70%;
+    margin: 10px auto;
+    
+    padding:8px;
+}
+
 h1{
     text-align: center;
     font-weight: 1000;
@@ -14,7 +21,9 @@ h1{
     
     width:100%;
     text-align: center;
-    height:200px;
+    
+    
+    
 }
 
 .back, a{
@@ -28,4 +37,11 @@ h1{
 h2{
     background-color: rgb(15, 63, 126);
     color:white;
+}
+
+img{
+    border-radius: 25px;
+    margin: 0 auto;
+    
+
 }

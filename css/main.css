@@ -3,6 +3,11 @@
     background-color: lightpink;
 }
 
+body{
+    width: 70%;
+    margin: 10px auto;
+}
+
 .head{
     text-align: center;
     font-weight: 1000;
@@ -35,4 +40,14 @@ img{
 .las{
     height:150px;
     width:150px;
+}
+
+
+
+li{
+    
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+
 }
